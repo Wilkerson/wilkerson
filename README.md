@@ -3,7 +3,7 @@
 Desenvolvedor apaixonado por resolver problemas complexos, com um pé na aviação militar e outro na vanguarda da Inteligência Artificial.
 
 ### 💡 Sobre mim
-* 🚀 Co-founder na **ruch**, focado no desenvolvimento de Agentes de IA.
+* 🚀 Co-founder na **Ruch Digital**, focado no desenvolvimento de Agentes de IA.
 * 🛠️ Desenvolvedor **Ruby on Rails** (experiência desde 2011) e **Python**.
 * 🎓 Graduado em Sistemas de Informação pela Unievangélica (Anápolis-GO).
 * ✈️ Militar da Força Aérea Brasileira (EEAR 2007), especialista em Manutenção de Aeronaves.
